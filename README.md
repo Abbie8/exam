@@ -1,4 +1,5 @@
 1.1	SDLC is short for software development lifecycle. 
+-p
 1.2 When diving a number by 0 an error will occur. 
 1.3 The git command that moves ode from the local repository to the remote repository is the git push command. 
 1.4 When NULL is shown in a database it means there is no existing value in the dataset. 
